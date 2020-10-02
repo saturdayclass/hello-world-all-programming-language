@@ -4,13 +4,12 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 [Read more](https://hacktoberfest.digitalocean.com/faq/)
 
-<div align="center">
-<b>Hello World Program</b> <br>
+
+### Hello World Program ###
 This is a repository of examples of hello world programs in all programming languages
 
-</div>
 
-## Contributors
+### Contributors ###
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
