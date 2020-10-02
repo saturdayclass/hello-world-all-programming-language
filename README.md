@@ -22,10 +22,8 @@ This is a repository of examples of hello world programs in all programming lang
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<table >
   <tr>
    <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars3.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/rygenzx"><img src="https://avatars3.githubusercontent.com/u/63197023?s=460&u=81398e5e71fb897c5e68435ebab8a7255fc07831&v=4" width="120px;" alt=""/><br /><sub><b>Rigen Maulana</b></sub></a><br /><a href="#content-rygenzx" title="Content">🖋</a></td>
-  </tr>
