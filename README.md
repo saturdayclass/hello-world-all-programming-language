@@ -15,88 +15,106 @@ This is a repository of examples of hello world programs in all programming lang
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
-<<<<<<< HEAD
-## Rules Number Folders
-
-- 01-JAVASCRIPT (done)
-- 02-KOTLIN (done)
-- 03-PYTHON (done)
-- 04-C (done)
-- 05-JAVA (done)
-- 06-MATLAB (done)
-- 07-ARDUINO (done)
-- 08-DART (done)
-- 09-C# (done)
-- 10-RUBY (done)
-- 11-PHP (done)
-- 12-C++
-- 13-RUST
-- 14-PASCAL (done)
-- 15-TYPESCRIPT (done)
-- 16-GO (done)
-- 17-CLOJURE
-- 18-R (done)
-
-Note : if you have a programming language recommendation, you can add it in the next number.
-=======
 ### Index Folders
 
 ### A.
-* [ARDUINO](/ARDUINO)
+
+- [ARDUINO](/ARDUINO)
+
 ### B.
-* [Bash](/Bash)
-* [Brainfuck](/Brainfuck)
+
+- [Bash](/Bash)
+- [Brainfuck](/Brainfuck)
+
 ### C.
-* [C](/C)
-* [C#](C%23)
-* [C++](/C%2B%2B)
-* [COFFEESCRIPT](/CoffeeScript)
+
+- [C](/C)
+- [C#](C%23)
+- [C++](/C%2B%2B)
+- [COFFEESCRIPT](/CoffeeScript)
+
 ### D.
-* [DART](/DART)
+
+- [DART](/DART)
+
 ### E.
-* [Elixir](/Elixir)
+
+- [Elixir](/Elixir)
+
 ### F.
+
 ### G.
-* [GO](/GO)
+
+- [GO](/GO)
+
 ### H.
-* [HASKELL](/Haskell)
+
+- [HASKELL](/Haskell)
+
 ### I.
+
 ### J.
-* [JAVA](/JAVA)
-* [JAVASCRIPT](/JAVASCRIPT)
+
+- [JAVA](/JAVA)
+- [JAVASCRIPT](/JAVASCRIPT)
+
 ### K.
-* [KOTLIN](/KOTLIN)
+
+- [KOTLIN](/KOTLIN)
+
 ### L.
-* [LUA](/LUA)
+
+- [LUA](/LUA)
+
 ### M.
-* [MATLAB](/MATLAB)
+
+- [MATLAB](/MATLAB)
+
 ### N.
+
 ### O.
-* [Objective-C](/Objective-C)
+
+- [Objective-C](/Objective-C)
+
 ### P.
-* [Pascal](/Pascal)
-* [PASCAL](/PASCAL)
-* [PHP](/PHP)
-* [PYTHON](/PYTHON)
+
+- [Pascal](/Pascal)
+- [PASCAL](/PASCAL)
+- [PHP](/PHP)
+- [PYTHON](/PYTHON)
+
 ### Q.
+
 ### R.
-* [RUBY](/RUBY)
-* [RUST](/RUST)
+
+- [R](/R)
+- [RUBY](/RUBY)
+- [RUST](/RUST)
+
 ### S.
-* [SWIFT](/SWIFT)
-* [SCALA](/SCALA)
+
+- [SWIFT](/SWIFT)
+- [SCALA](/SCALA)
+
 ### T.
-* [TYPESCRIPT](/TYPESCRIPT)
+
+- [TYPESCRIPT](/TYPESCRIPT)
+
 ### U.
+
 ### V.
-* [VB6](/VB6)
+
+- [VB6](/VB6)
+
 ### W.
+
 ### X.
+
 ### Y.
+
 ### Z.
 
 Note : if you have a programming language recommendation, you can add it in the index above.
->>>>>>> bcbb6bea6cfa3d53875a307981726637aa688c5b
 
 ### Contributors
 
