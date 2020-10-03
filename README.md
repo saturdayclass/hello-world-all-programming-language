@@ -60,6 +60,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [RUST](/RUST)
 ### S.
 * [SWIFT](/SWIFT)
+* [SCALA](/SCALA)
 ### T.
 * [TYPESCRIPT](/TYPESCRIPT)
 ### U.
