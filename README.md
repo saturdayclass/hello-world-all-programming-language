@@ -34,6 +34,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 15-TYPESCRIPT (done) 
 - 16-GO (done)
 - 17-Swift(done)
+- 18-VB6 (done)
 
 Note : if you have a programming language recommendation, you can add it in the next number.
 
