@@ -24,45 +24,45 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * C
 * C#
 * C++
-D.
+### D.
 * DART
-E.
-F.
-G.
+### E.
+### F.
+### G.
 * GO
-H.
+### H.
 * HASKEL
-I.
-J.
+### I.
+### J.
 * JAVA
 * JAVASCRIPT
-K.
+### K.
 * KOTLIN
-L.
+### L.
 * LUA
-M.
+### M.
 * MATLAB
-N.
-O.
+### N.
+### O.
 * Objective-C
-P.
+### P.
 * PASCAL
 * PHP
 * PYTHON
-Q.
-R.
+### Q.
+### R.
 * RUBY
 * RUST
-S.
-T.
+### S.
+### T.
 * TYPESCRIPT
-U.
-V.
+### U.
+### V.
 * VB6
-W.
-X.
-Y.
-Z.
+### W.
+### X.
+### Y.
+### Z.
 
 Note : if you have a programming language recommendation, you can add it in the index above.
 
