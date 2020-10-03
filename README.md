@@ -29,7 +29,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 10-RUBY (done)
 - 11-PHP (done)
 - 12-C++
-- 13-RUST 
+- 13-RUST (done)
 - 14-PASCAL (done)
 - 15-TYPESCRIPT (done) 
 - 16-GO (done)
