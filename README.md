@@ -27,6 +27,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### D.
 * DART
 ### E.
+* Elixir
 ### F.
 ### G.
 * GO
