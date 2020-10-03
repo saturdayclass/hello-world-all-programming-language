@@ -25,11 +25,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 09-C# (done)
 - 10-RUBY (done)
 - 11-PHP (done)
-- 12-CLOJURE
+- 12-C++
 - 13-RUST 
 - 14-PASCAL 
 - 15-TYPESCRIPT 
 - 16-GO
+- 17-CLOJURE
 
 Note : if you have a programming language recommendation, you can add it in the next number.
 
