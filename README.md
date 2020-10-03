@@ -1,3 +1,6 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/saturdayclass/hello-world-all-programming-language)
+[![Contributors](https://img.shields.io/github/contributors/saturdayclass/hello-world-all-programming-language)](https://github.com/saturdayclass/hello-world-all-programming-language/graphs/contributors)
+
 # Hacktoberfest!
 
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
