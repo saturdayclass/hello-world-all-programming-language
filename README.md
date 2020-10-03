@@ -29,12 +29,15 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 10-RUBY (done)
 - 11-PHP (done)
 - 11-PHP versi OOP (done)
-- 12-C++
-- 13-RUST 
+- 12-C++ (done)
+- 13-RUST (done)
 - 14-PASCAL (done)
-- 15-TYPESCRIPT (done) 
+- 15-TYPESCRIPT (done)
 - 16-GO (done)
-- 17-CLOJURE
+- 17-Swift(done)
+- 18-VB6 (done)
+- 19-LUA (done)
+- 20-CLOJURE
 
 Note : if you have a programming language recommendation, you can add it in the next number.
 
@@ -47,5 +50,6 @@ Note : if you have a programming language recommendation, you can add it in the 
 <table >
   <tr>
    <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars3.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/elianiva"><img src="https://avatars2.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>Elianiva</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   </tr>
   <tr>
