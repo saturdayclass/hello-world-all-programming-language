@@ -15,30 +15,56 @@ This is a repository of examples of hello world programs in all programming lang
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
-## Rules Number Folders
+## Index Folders
 
-- 01-JAVASCRIPT (done)
-- 02-KOTLIN (done)
-- 03-PYTHON (done)
-- 04-C (done)
-- 05-JAVA (done)
-- 06-MATLAB (done)
-- 07-ARDUINO (done)
-- 08-DART (done)
-- 09-C# (done)
-- 10-RUBY (done)
-- 11-PHP (done)
-- 12-C++ (done)
-- 13-RUST (done)
-- 14-PASCAL (done)
-- 15-TYPESCRIPT (done)
-- 16-GO (done)
-- 17-Swift(done)
-- 18-VB6 (done)
-- 19-LUA (done)
-- 20-CLOJURE
+A.
+* ARDUINO
+B.
+C.
+* C
+* C#
+* C++
+D.
+* DART
+E.
+F.
+G.
+* GO
+H.
+* HASKEL
+I.
+J.
+* JAVA
+* JAVASCRIPT
+K.
+* KOTLIN
+L.
+* LUA
+M.
+* MATLAB
+N.
+O.
+* Objective-C
+P.
+* PASCAL
+* PHP
+* PYTHON
+Q.
+R.
+* RUBY
+* RUST
+S.
+T.
+* TYPESCRIPT
+U.
+V.
+* VB6
+W.
+X.
+Y.
+Z.
 
-Note : if you have a programming language recommendation, you can add it in the next number.
+Note : if you have a programming language recommendation, you can add it in the index above.
 
 
 ### Contributors
