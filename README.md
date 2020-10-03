@@ -24,6 +24,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * C
 * C#
 * C++
+* CoffeeScript
 ### D.
 * DART
 ### E.
