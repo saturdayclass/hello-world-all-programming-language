@@ -46,6 +46,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### M.
 * [MATLAB](/MATLAB)
 ### N.
+* [NIM] (/NIM)
 ### O.
 * [Objective-C](/Objective-C)
 ### P.
