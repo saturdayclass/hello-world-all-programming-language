@@ -14,6 +14,14 @@ This is a repository of examples of hello world programs in all programming lang
 - Fork this repository
 - Clone your repo
 - Add your hello world program examples
+```bash
+## Example
+## hello-world.py
+print("Hello World")
+
+## hello-world.php
+<?= 'Hello World!' ?>
+```
 - Add yourself as a contribution in `README.md`
 - Push
 - Pull request
