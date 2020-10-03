@@ -31,6 +31,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 15-TYPESCRIPT 
 - 16-GO
 - 17-CLOJURE
+- 18-VB6
 
 Note : if you have a programming language recommendation, you can add it in the next number.
 
