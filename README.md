@@ -15,12 +15,12 @@ This is a repository of examples of hello world programs in all programming lang
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
-## Index Folders
+### Index Folders
 
-A.
+### A.
 * ARDUINO
-B.
-C.
+### B.
+### C.
 * C
 * C#
 * C++
