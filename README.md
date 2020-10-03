@@ -33,7 +33,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 14-PASCAL (done)
 - 15-TYPESCRIPT (done) 
 - 16-GO (done)
-- 17-CLOJURE
+- 17-Swift(done)
 
 Note : if you have a programming language recommendation, you can add it in the next number.
 
