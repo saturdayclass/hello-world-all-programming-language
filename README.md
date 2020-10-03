@@ -20,6 +20,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### A.
 * [ARDUINO](/ARDUINO)
 ### B.
+* [Bash](/Bash)
 ### C.
 * [C](/C)
 * [C#](C%23)
