@@ -29,14 +29,14 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 10-RUBY (done)
 - 11-PHP (done)
 - 12-C++
-- 13-RUST 
+- 13-RUST
 - 14-PASCAL (done)
-- 15-TYPESCRIPT (done) 
+- 15-TYPESCRIPT (done)
 - 16-GO (done)
 - 17-CLOJURE
+- 18-R (done)
 
 Note : if you have a programming language recommendation, you can add it in the next number.
-
 
 ### Contributors
 
