@@ -34,7 +34,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### G.
 * [GO](/GO)
 ### H.
-* [HASKEL](/Haskell)
+* [HASKELL](/Haskell)
 ### I.
 ### J.
 * [JAVA](/JAVA)
@@ -46,7 +46,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### M.
 * [MATLAB](/MATLAB)
 ### N.
-* [NIM] (/NIM)
 ### O.
 * [Objective-C](/Objective-C)
 ### P.
