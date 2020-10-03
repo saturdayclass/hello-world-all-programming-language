@@ -28,6 +28,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 09-C# (done)
 - 10-RUBY (done)
 - 11-PHP (done)
+- 11-PHP versi OOP (done)
 - 12-C++
 - 13-RUST 
 - 14-PASCAL (done)
