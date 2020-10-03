@@ -1,3 +1,6 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/saturdayclass/hello-world-all-programming-language)
+[![Contributors](https://img.shields.io/github/contributors/saturdayclass/hello-world-all-programming-language)](https://github.com/saturdayclass/hello-world-all-programming-language/graphs/contributors)
+
 # Hacktoberfest!
 
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
@@ -26,12 +29,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 10-RUBY (done)
 - 11-PHP (done)
 - 12-C++
-- 13-RUST 
-- 14-PASCAL 
-- 15-TYPESCRIPT 
-- 16-GO
-- 17-CLOJURE
-- 18-VB6
+- 13-RUST (done)
+- 14-PASCAL (done)
+- 15-TYPESCRIPT (done) 
+- 16-GO (done)
+- 17-Swift(done)
+- 18-VB6 (done)
 
 Note : if you have a programming language recommendation, you can add it in the next number.
 
