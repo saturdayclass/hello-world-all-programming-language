@@ -19,10 +19,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### A.
 
-
 - [ARDUINO](/ARDUINO)
 - [ASP](/ASP)
-
 
 ### B.
 
@@ -30,12 +28,14 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Brainfuck](/Brainfuck)
 
 ### C.
-* [C](/C)
-* [C#](C%23)
-* [C#-OOP](C%23-OOP)
-* [C++](/C%2B%2B)
-* [COFFEESCRIPT](/CoffeeScript)
-* [C++-with-function](/C%2B%2B-with-function)
+
+- [C](/C)
+- [C#](C%23)
+- [C#-OOP](C%23-OOP)
+- [C++](/C%2B%2B)
+- [COFFEESCRIPT](/CoffeeScript)
+- [C++-with-function](/C%2B%2B-with-function)
+
 ### D.
 
 - [DART](/DART)
@@ -58,18 +58,19 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### J.
 
-* [JAVA](/JAVA)
-* [JAVASCRIPT](/JAVASCRIPT)
-* [JSFuck] (/JSFUCK)
-
 - [JAVA](/JAVA)
 - [JAVASCRIPT](/JAVASCRIPT)
+- [JSFuck] (/JSFUCK)
+
+* [JAVA](/JAVA)
+* [JAVASCRIPT](/JAVASCRIPT)
 
 ### K.
 
 - [KOTLIN](/KOTLIN)
 
 ### L.
+
 - [LISP](/LISP)
 - [LUA](/LUA)
 
@@ -85,10 +86,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### P.
 
-* [PASCAL](/PASCAL)
-* [PHP](/PHP)
-* [PHP using OOP](/PHP-OOP)
-* [PYTHON](/PYTHON)
+- [PASCAL](/PASCAL)
+- [PEARL](/PEARL)
+- [PHP](/PHP)
+- [PHP using OOP](/PHP-OOP)
+- [PYTHON](/PYTHON)
 
 ### Q.
 
@@ -100,8 +102,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### S.
 
-* [SCALA](/SCALA)
-* [SWIFT](/SWIFT)
+- [SCALA](/SCALA)
+- [SWIFT](/SWIFT)
 
 ### T.
 
@@ -111,16 +113,16 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### V.
 
-* [V](/V)
-* [VB6](/VB6)
-* [VBScript](/VBScript)
-* [Vimscript](/Vimscript)
+- [V](/V)
+- [VB6](/VB6)
+- [VBScript](/VBScript)
+- [Vimscript](/Vimscript)
 
 ### W.
 
 ### X.
 
-* [X++](/X%2B%2B)
+- [X++](/X%2B%2B)
 
 ### Y.
 
