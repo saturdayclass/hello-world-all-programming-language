@@ -19,8 +19,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### A.
 
-* [ARDUINO](/ARDUINO)
-* [ASP](/ASP)
+
+- [ARDUINO](/ARDUINO)
+- [ASP](/ASP)
+
 
 ### B.
 
@@ -79,11 +81,13 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### P.
 
-* [Pascal](/Pascal)
-* [PASCAL](/PASCAL)
-* [PHP](/PHP)
-* [PHP using OOP](/PHP-OOP)
-* [PYTHON](/PYTHON)
+
+- [Pascal](/Pascal)
+- [PASCAL](/PASCAL)
+- [PHP](/PHP)
+- [PHP using OOP](/PHP-OOP)
+- [PowerShell](/POWERSHELL)
+- [PYTHON](/PYTHON)
 
 ### Q.
 
@@ -107,6 +111,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### V.
 
 - [VB6](/VB6)
+- [VBScript](/VBScript)
+
 
 ### W.
 
@@ -130,6 +136,8 @@ Note : if you have a programming language recommendation, you can add it in the 
    <td align="center"><a href="https://github.com/rinaldipratama"><img src="https://avatars0.githubusercontent.com/u/71593600?v=4" width="120px;" alt=""/><br /><sub><b>Rinaldi Pratama Putra</b></sub></a><br /><a href="#content-rinaldipratama" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/Atul1409"><img src="https://avatars3.githubusercontent.com/u/63466177?v=4" width="120px;" alt=""/><br /><sub><b>Atul1409</b></sub></a><br /><a href="#content-atul1409" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/riyhs"><img src="https://avatars2.githubusercontent.com/u/42972239?v=4" width="120px;" alt=""/><br /><sub><b>Riyaldi Hasan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/muhammad-rizqi"><img src="https://avatars1.githubusercontent.com/u/69310085?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Rizqi</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
+
  </tr>
  <tr>
    <td align="center"><a href="https://github.com/hafidardiansyahh"><img src="https://avatars0.githubusercontent.com/u/62227964?v=4" width="120px;" alt=""/><br /><sub><b>Hafid Ardiansyah</b></sub></a><br /><a href="#content-hafidardiansyahh" title="Content">🖋</a></td>
@@ -153,4 +161,3 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars0.githubusercontent.com/u/48024209?s=460&u=935ccdc9612b58b1df89c9942f8028a4f118ff65&v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
 </tr>
 <table/>
-
