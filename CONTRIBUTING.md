@@ -4,13 +4,13 @@
 - Add your hello world program examples
 ```bash
 ## Example
-## hello-world.py
+## Python/hello-world.py
 print("Hello World")
 
-## hello-world.php
+## PHP/hello-world.php
 <?= 'Hello World!' ?>
 ```
-- Add yourself as a contribution in `README.md`
+- Add list programming language & yourself as a contribution in `README.md`
 - Push
 - Pull request
 
