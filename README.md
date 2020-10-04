@@ -70,7 +70,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [KOTLIN](/KOTLIN)
 
 ### L.
-
+- [LISP](/LISP)
 - [LUA](/LUA)
 
 ### M.
