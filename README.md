@@ -18,62 +18,103 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Index Folders
 
 ### A.
+
 * [ARDUINO](/ARDUINO)
 * [ASP](/ASP)
+
 ### B.
-* [Bash](/Bash)
-* [Brainfuck](/Brainfuck)
+
+- [Bash](/Bash)
+- [Brainfuck](/Brainfuck)
+
 ### C.
 * [C](/C)
 * [C#](C%23)
 * [C++](/C%2B%2B)
 * [COFFEESCRIPT](/COFFEESCRIPT)
+
 ### D.
-* [DART](/DART)
+
+- [DART](/DART)
+
 ### E.
-* [Elixir](/Elixir)
+
+- [Elixir](/Elixir)
+
 ### F.
+
 ### G.
-* [GO](/GO)
+
+- [GO](/GO)
+
 ### H.
-* [HASKELL](/Haskell)
+
+- [HASKELL](/Haskell)
+
 ### I.
+
 ### J.
-* [JAVA](/JAVA)
-* [JAVASCRIPT](/JAVASCRIPT)
+
+- [JAVA](/JAVA)
+- [JAVASCRIPT](/JAVASCRIPT)
+
 ### K.
-* [KOTLIN](/KOTLIN)
+
+- [KOTLIN](/KOTLIN)
+
 ### L.
-* [LUA](/LUA)
+
+- [LUA](/LUA)
+
 ### M.
-* [MATLAB](/MATLAB)
+
+- [MATLAB](/MATLAB)
+
 ### N.
+
 ### O.
-* [Objective-C](/Objective-C)
+
+- [Objective-C](/Objective-C)
+
 ### P.
+
 * [PASCAL](/PASCAL)
 * [PHP](/PHP)
 * [PHP using OOP](/PHP-OOP)
 * [PYTHON](/PYTHON)
+
 ### Q.
+
 ### R.
-* [RUBY](/RUBY)
-* [RUST](/RUST)
+
+- [R](/R)
+- [RUBY](/RUBY)
+- [RUST](/RUST)
+
 ### S.
+
 * [SCALA](/SCALA)
 * [SWIFT](/SWIFT)
+
 ### T.
-* [TYPESCRIPT](/TYPESCRIPT)
+
+- [TYPESCRIPT](/TYPESCRIPT)
+
 ### U.
+
 ### V.
-* [VB6](/VB6)
+
+- [VB6](/VB6)
+
 ### W.
+
 ### X.
+
 ### Y.
+
 ### Z.
 
 Note : if you have a programming language recommendation, you can add it in the index above.
-
 
 ### Contributors
 
