@@ -41,6 +41,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### J.
 * [JAVA](/JAVA)
 * [JAVASCRIPT](/JAVASCRIPT)
+* [JSFuck] (/JSFUCK)
 ### K.
 * [KOTLIN](/KOTLIN)
 ### L.
