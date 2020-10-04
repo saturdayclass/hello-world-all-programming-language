@@ -77,12 +77,34 @@ Note : if you have a programming language recommendation, you can add it in the 
 
 ### Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table >
+<table>
   <tr>
    <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars3.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
-   <td align="center"><a href="https://github.com/elianiva"><img src="https://avatars2.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>Elianiva</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/raihan-muhammad"><img src="https://avatars2.githubusercontent.com/u/51007619?v=4" width="120px;" alt=""/><br /><sub><b>Raihan Muhammad</b></sub></a><br /><a href="#content-raihan-muhammad" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/triopu"><img src="https://avatars3.githubusercontent.com/u/34916056?v=4" width="120px;" alt=""/><br /><sub><b>Trio Pambudi Utomo</b></sub></a><br /><a href="#content-triop" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/rygenzx"><img src="https://avatars3.githubusercontent.com/u/63197023?v=4" width="120px;" alt=""/><br /><sub><b>Rigen Maulana</b></sub></a><br /><a href="#content-rygenzx" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/rinaldipratama"><img src="https://avatars0.githubusercontent.com/u/71593600?v=4" width="120px;" alt=""/><br /><sub><b>Rinaldi Pratama Putra</b></sub></a><br /><a href="#content-rinaldipratama" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/Atul1409"><img src="https://avatars3.githubusercontent.com/u/63466177?v=4" width="120px;" alt=""/><br /><sub><b>Atul1409</b></sub></a><br /><a href="#content-atul1409" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/riyhs"><img src="https://avatars2.githubusercontent.com/u/42972239?v=4" width="120px;" alt=""/><br /><sub><b>Riyaldi Hasan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
   </tr>
   <tr>
+   <td align="center"><a href="https://github.com/hafidardiansyahh"><img src="https://avatars0.githubusercontent.com/u/62227964?v=4" width="120px;" alt=""/><br /><sub><b>Hafid Ardiansyah</b></sub></a><br /><a href="#content-hafidardiansyahh" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/agungbudimiantoro"><img src="https://avatars3.githubusercontent.com/u/61444523?v=4" width="120px;" alt=""/><br /><sub><b>Agung Budi Miantoro</b></sub></a><br /><a href="#content-agungbudimiantoro" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/SlmnMEDIA"><img src="https://avatars2.githubusercontent.com/u/61409924?v=4" width="120px;" alt=""/><br /><sub><b>Salman</b></sub></a><br /><a href="#content-slmn-media" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/tomorisakura"><img src="https://avatars3.githubusercontent.com/u/23102910?v=4" width="120px;" alt=""/><br /><sub><b>Reski Arianto</b></sub></a><br /><a href="#content-tomorisakura" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/ronnygunawan"><img src="https://avatars3.githubusercontent.com/u/3048897?v=4" width="120px;" alt=""/><br /><sub><b>Ronny Gunawan</b></sub></a><br /><a href="#content-ronnygunawan" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/rianmandala"><img src="https://avatars2.githubusercontent.com/u/60568628?v=4" width="120px;" alt=""/><br /><sub><b>rian mandala</b></sub></a><br /><a href="#content-rianmandala" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/rafli-dio"><img src="https://avatars1.githubusercontent.com/u/68155137?v=4" width="120px;" alt=""/><br /><sub><b>Rafli Dio</b></sub></a><br /><a href="#content-rafli-dio" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+   <td align="center"><a href="https://github.com/isha-exe"><img src="https://avatars0.githubusercontent.com/u/70028704?v=4" width="120px;" alt=""/><br /><sub><b>Isha Narang</b></sub></a><br /><a href="#content-isha-exe" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/hendradem"><img src="https://avatars3.githubusercontent.com/u/24218186?v=4" width="120px;" alt=""/><br /><sub><b>Ade Mahendra</b></sub></a><br /><a href="#content-hendradem" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/hendraaagil"><img src="https://avatars2.githubusercontent.com/u/54741166?v=4" width="120px;" alt=""/><br /><sub><b>Hendra Agil Syaputra</b></sub></a><br /><a href="#content-hendraaagil" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/firdausyah22"><img src="https://avatars0.githubusercontent.com/u/39095849?v=4" width="120px;" alt=""/><br /><sub><b>Filla Akbar Firdausyah</b></sub></a><br /><a href="#content-firdausyah22" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/elianiva"><img src="https://avatars2.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>Elianiva</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/afdulfauzan"><img src="https://avatars0.githubusercontent.com/u/37241368?v=4" width="120px;" alt=""/><br /><sub><b>Afdul Fauzan</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/Zainal21"><img src="https://avatars3.githubusercontent.com/u/48118434?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Zainal Arifin</b></sub></a><br /><a href="#content-zainal21" title="Content">🖋</a></td>
+  </tr>
+<table/>
