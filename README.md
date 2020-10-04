@@ -33,8 +33,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [C](/C)
 * [C#](C%23)
 * [C++](/C%2B%2B)
-* [COFFEESCRIPT](/COFFEESCRIPT)
-
+* [COFFEESCRIPT](/CoffeeScript)
+* [C++-with-function](/C%2B%2B-with-function)
 ### D.
 
 - [DART](/DART)
