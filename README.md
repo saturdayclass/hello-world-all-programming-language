@@ -67,6 +67,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [TYPESCRIPT](/TYPESCRIPT)
 ### U.
 ### V.
+* [V](/V)
 * [VB6](/VB6)
 ### W.
 ### X.
@@ -109,6 +110,7 @@ Note : if you have a programming language recommendation, you can add it in the 
  </tr>
  <tr>
   <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars0.githubusercontent.com/u/48024209?s=460&u=935ccdc9612b58b1df89c9942f8028a4f118ff65&v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/Muh-Sidik"><img src="https://avatars3.githubusercontent.com/u/52684744?s=460&u=ef07fccc87ddc9c6eaafc894473ec38f7788aade&v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Sidik</b></sub></a><br /><a href="#content-Muh-SIdik" title="Content">🖋</a></td>
 </tr>
 <table/>
 
