@@ -10,8 +10,8 @@ print("Hello World")
 ## PHP/hello-world.php
 <?= 'Hello World!' ?>
 ```
-- Add list programming language & yourself as a contribution in `README.md`
+- Add list programming language & yourself as a contributor in `README.md`
 - Push
 - Pull request
 
-Note : Don't forget to provide a complete description in the readme. 
+Note : Don't forget to provide a complete description in the readme.
