@@ -83,7 +83,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [PASCAL](/PASCAL)
 - [PHP](/PHP)
 - [PHP using OOP](/PHP-OOP)
-- [PowerShell] (/POWERSHELL)
+- [PowerShell](/POWERSHELL)
 - [PYTHON](/PYTHON)
 
 ### Q.
