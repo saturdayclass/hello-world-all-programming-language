@@ -27,7 +27,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [C](/C)
 * [C#](C%23)
 * [C++](/C%2B%2B)
-* [COFFEESCRIPT](/CoffeeScript)
+* [COFFEESCRIPT](/COFFEESCRIPT)
 ### D.
 * [DART](/DART)
 ### E.
@@ -51,7 +51,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### O.
 * [Objective-C](/Objective-C)
 ### P.
-* [Pascal](/Pascal)
 * [PASCAL](/PASCAL)
 * [PHP](/PHP)
 * [PHP using OOP](/PHP-OOP)
@@ -61,8 +60,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [RUBY](/RUBY)
 * [RUST](/RUST)
 ### S.
-* [SWIFT](/SWIFT)
 * [SCALA](/SCALA)
+* [SWIFT](/SWIFT)
 ### T.
 * [TYPESCRIPT](/TYPESCRIPT)
 ### U.
