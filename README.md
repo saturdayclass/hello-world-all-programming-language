@@ -106,5 +106,6 @@ Note : if you have a programming language recommendation, you can add it in the 
    <td align="center"><a href="https://github.com/elianiva"><img src="https://avatars2.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>Elianiva</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/afdulfauzan"><img src="https://avatars0.githubusercontent.com/u/37241368?v=4" width="120px;" alt=""/><br /><sub><b>Afdul Fauzan</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/Zainal21"><img src="https://avatars3.githubusercontent.com/u/48118434?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Zainal Arifin</b></sub></a><br /><a href="#content-zainal21" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars0.githubusercontent.com/u/48024209?s=460&u=935ccdc9612b58b1df89c9942f8028a4f118ff65&v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
   </tr>
 <table/>
