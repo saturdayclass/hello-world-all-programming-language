@@ -19,8 +19,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### A.
 
+
 - [ARDUINO](/ARDUINO)
 - [ASP](/ASP)
+
 
 ### B.
 
@@ -79,6 +81,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### P.
 
+
 - [Pascal](/Pascal)
 - [PASCAL](/PASCAL)
 - [PHP](/PHP)
@@ -90,6 +93,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### R.
 
+- [R](/R)
 - [RUBY](/RUBY)
 - [RUST](/RUST)
 
@@ -108,6 +112,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [VB6](/VB6)
 - [VBScript](/VBScript)
+
 
 ### W.
 
