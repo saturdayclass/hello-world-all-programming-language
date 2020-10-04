@@ -30,11 +30,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Brainfuck](/Brainfuck)
 
 ### C.
-
-- [C](/C)
-- [C#](C%23)
-- [C++](/C%2B%2B)
-- [COFFEESCRIPT](/CoffeeScript)
+* [C](/C)
+* [C#](C%23)
+* [C++](/C%2B%2B)
+* [COFFEESCRIPT](/COFFEESCRIPT)
 
 ### D.
 
@@ -81,13 +80,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### P.
 
-
-- [Pascal](/Pascal)
-- [PASCAL](/PASCAL)
-- [PHP](/PHP)
-- [PHP using OOP](/PHP-OOP)
-- [PowerShell](/POWERSHELL)
-- [PYTHON](/PYTHON)
+* [PASCAL](/PASCAL)
+* [PHP](/PHP)
+* [PHP using OOP](/PHP-OOP)
+* [PYTHON](/PYTHON)
 
 ### Q.
 
@@ -99,8 +95,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### S.
 
-- [SWIFT](/SWIFT)
-- [SCALA](/SCALA)
+* [SCALA](/SCALA)
+* [SWIFT](/SWIFT)
 
 ### T.
 
