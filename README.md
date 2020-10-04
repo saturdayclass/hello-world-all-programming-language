@@ -53,6 +53,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Pascal](/Pascal)
 * [PASCAL](/PASCAL)
 * [PHP](/PHP)
+* [PHP using OOP](/PHP-OOP)
 * [PYTHON](/PYTHON)
 ### Q.
 ### R.
