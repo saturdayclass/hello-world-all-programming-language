@@ -28,6 +28,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [C#](C%23)
 * [C++](/C%2B%2B)
 * [COFFEESCRIPT](/CoffeeScript)
+* [C++-with-function](/C++-with-function)
 ### D.
 * [DART](/DART)
 ### E.
