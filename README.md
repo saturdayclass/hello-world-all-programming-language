@@ -18,63 +18,105 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Index Folders
 
 ### A.
-* [ARDUINO](/ARDUINO)
-* [ASP](/ASP)
+
+- [ARDUINO](/ARDUINO)
+- [ASP](/ASP)
+
 ### B.
-* [Bash](/Bash)
-* [Brainfuck](/Brainfuck)
+
+- [Bash](/Bash)
+- [Brainfuck](/Brainfuck)
+
 ### C.
-* [C](/C)
-* [C#](C%23)
-* [C++](/C%2B%2B)
-* [COFFEESCRIPT](/CoffeeScript)
+
+- [C](/C)
+- [C#](C%23)
+- [C++](/C%2B%2B)
+- [COFFEESCRIPT](/CoffeeScript)
+
 ### D.
-* [DART](/DART)
+
+- [DART](/DART)
+
 ### E.
-* [Elixir](/Elixir)
+
+- [Elixir](/Elixir)
+
 ### F.
+
 ### G.
-* [GO](/GO)
+
+- [GO](/GO)
+
 ### H.
-* [HASKELL](/Haskell)
+
+- [HASKELL](/Haskell)
+
 ### I.
+
 ### J.
-* [JAVA](/JAVA)
-* [JAVASCRIPT](/JAVASCRIPT)
+
+- [JAVA](/JAVA)
+- [JAVASCRIPT](/JAVASCRIPT)
+
 ### K.
-* [KOTLIN](/KOTLIN)
+
+- [KOTLIN](/KOTLIN)
+
 ### L.
-* [LUA](/LUA)
+
+- [LUA](/LUA)
+
 ### M.
-* [MATLAB](/MATLAB)
+
+- [MATLAB](/MATLAB)
+
 ### N.
+
 ### O.
-* [Objective-C](/Objective-C)
+
+- [Objective-C](/Objective-C)
+
 ### P.
-* [Pascal](/Pascal)
-* [PASCAL](/PASCAL)
-* [PHP](/PHP)
-* [PHP using OOP](/PHP-OOP)
-* [PYTHON](/PYTHON)
+
+- [Pascal](/Pascal)
+- [PASCAL](/PASCAL)
+- [PHP](/PHP)
+- [PHP using OOP](/PHP-OOP)
+- [PowerShell] (/POWERSHELL)
+- [PYTHON](/PYTHON)
+
 ### Q.
+
 ### R.
-* [RUBY](/RUBY)
-* [RUST](/RUST)
+
+- [RUBY](/RUBY)
+- [RUST](/RUST)
+
 ### S.
-* [SWIFT](/SWIFT)
-* [SCALA](/SCALA)
+
+- [SWIFT](/SWIFT)
+- [SCALA](/SCALA)
+
 ### T.
-* [TYPESCRIPT](/TYPESCRIPT)
+
+- [TYPESCRIPT](/TYPESCRIPT)
+
 ### U.
+
 ### V.
-* [VB6](/VB6)
+
+- [VB6](/VB6)
+
 ### W.
+
 ### X.
+
 ### Y.
+
 ### Z.
 
 Note : if you have a programming language recommendation, you can add it in the index above.
-
 
 ### Contributors
 
@@ -88,6 +130,8 @@ Note : if you have a programming language recommendation, you can add it in the 
    <td align="center"><a href="https://github.com/rinaldipratama"><img src="https://avatars0.githubusercontent.com/u/71593600?v=4" width="120px;" alt=""/><br /><sub><b>Rinaldi Pratama Putra</b></sub></a><br /><a href="#content-rinaldipratama" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/Atul1409"><img src="https://avatars3.githubusercontent.com/u/63466177?v=4" width="120px;" alt=""/><br /><sub><b>Atul1409</b></sub></a><br /><a href="#content-atul1409" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/riyhs"><img src="https://avatars2.githubusercontent.com/u/42972239?v=4" width="120px;" alt=""/><br /><sub><b>Riyaldi Hasan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/muhammad-rizqi"><img src="https://avatars1.githubusercontent.com/u/69310085?v=4" width="120px;" alt=""/><br /><sub><b>Riyaldi Hasan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
+
  </tr>
  <tr>
    <td align="center"><a href="https://github.com/hafidardiansyahh"><img src="https://avatars0.githubusercontent.com/u/62227964?v=4" width="120px;" alt=""/><br /><sub><b>Hafid Ardiansyah</b></sub></a><br /><a href="#content-hafidardiansyahh" title="Content">🖋</a></td>
@@ -111,4 +155,3 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars0.githubusercontent.com/u/48024209?s=460&u=935ccdc9612b58b1df89c9942f8028a4f118ff65&v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
 </tr>
 <table/>
-
