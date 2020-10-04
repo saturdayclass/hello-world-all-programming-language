@@ -15,31 +15,63 @@ This is a repository of examples of hello world programs in all programming lang
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
-## Rules Number Folders
+### Index Folders
 
-- 01-JAVASCRIPT (done)
-- 02-KOTLIN (done)
-- 03-PYTHON (done)
-- 04-C (done)
-- 05-JAVA (done)
-- 06-MATLAB (done)
-- 07-ARDUINO (done)
-- 08-DART (done)
-- 09-C# (done)
-- 10-RUBY (done)
-- 11-PHP (done)
-- 11-PHP versi OOP (done)
-- 12-C++ (done)
-- 13-RUST (done)
-- 14-PASCAL (done)
-- 15-TYPESCRIPT (done)
-- 16-GO (done)
-- 17-Swift(done)
-- 18-VB6 (done)
-- 19-LUA (done)
-- 20-CLOJURE
+### A.
+* [ARDUINO](/ARDUINO)
+### B.
+* [Bash](/Bash)
+* [Brainfuck](/Brainfuck)
+### C.
+* [C](/C)
+* [C#](C%23)
+* [C++](/C%2B%2B)
+* [COFFEESCRIPT](/CoffeeScript)
+### D.
+* [DART](/DART)
+### E.
+* [Elixir](/Elixir)
+### F.
+### G.
+* [GO](/GO)
+### H.
+* [HASKELL](/Haskell)
+### I.
+### J.
+* [JAVA](/JAVA)
+* [JAVASCRIPT](/JAVASCRIPT)
+### K.
+* [KOTLIN](/KOTLIN)
+### L.
+* [LUA](/LUA)
+### M.
+* [MATLAB](/MATLAB)
+### N.
+### O.
+* [Objective-C](/Objective-C)
+### P.
+* [Pascal](/Pascal)
+* [PASCAL](/PASCAL)
+* [PHP](/PHP)
+* [PYTHON](/PYTHON)
+### Q.
+### R.
+* [RUBY](/RUBY)
+* [RUST](/RUST)
+### S.
+* [SWIFT](/SWIFT)
+* [SCALA](/SCALA)
+### T.
+* [TYPESCRIPT](/TYPESCRIPT)
+### U.
+### V.
+* [VB6](/VB6)
+### W.
+### X.
+### Y.
+### Z.
 
-Note : if you have a programming language recommendation, you can add it in the next number.
+Note : if you have a programming language recommendation, you can add it in the index above.
 
 
 ### Contributors
@@ -53,3 +85,4 @@ Note : if you have a programming language recommendation, you can add it in the 
    <td align="center"><a href="https://github.com/elianiva"><img src="https://avatars2.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>Elianiva</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   </tr>
   <tr>
+</table>
