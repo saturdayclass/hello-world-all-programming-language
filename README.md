@@ -46,6 +46,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### E.
 
 - [Elixir](/Elixir)
+- [Erlang](/Erlang)
 
 ### F.
 
@@ -63,7 +64,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [JAVA](/JAVA)
 - [JAVASCRIPT](/JAVASCRIPT)
-- [JSFuck] (/JSFUCK)
+- [JSFuck](/JSFUCK)
 - [JULIA](/JULIA)
 * [JAVA](/JAVA)
 * [JAVASCRIPT](/JAVASCRIPT)
@@ -93,6 +94,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [PEARL](/PEARL)
 - [PHP](/PHP)
 - [PHP using OOP](/PHP-OOP)
+- [Processing](/Processing)
 - [PYTHON](/PYTHON)
 
 ### Q.
