@@ -33,7 +33,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [C#](C%23)
 - [C#-OOP](C%23-OOP)
 - [C++](/C%2B%2B)
-- [COFFEESCRIPT](/CoffeeScript)
+- [COFFEESCRIPT](/COFFEESCRIPT)
 - [C++-with-function](/C%2B%2B-with-function)
 - [CLOJURE](/CLOJURE)
 - [COBOL](/COBOL)
@@ -66,8 +66,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [JAVASCRIPT](/JAVASCRIPT)
 - [JSFuck](/JSFUCK)
 - [JULIA](/JULIA)
-* [JAVA](/JAVA)
-* [JAVASCRIPT](/JAVASCRIPT)
 
 ### K.
 
