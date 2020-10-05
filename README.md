@@ -36,6 +36,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [COFFEESCRIPT](/CoffeeScript)
 - [C++-with-function](/C%2B%2B-with-function)
 - [CLOJURE](/CLOJURE)
+- [COBOL](/COBOL)
+
 
 ### D.
 
@@ -62,7 +64,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [JAVA](/JAVA)
 - [JAVASCRIPT](/JAVASCRIPT)
 - [JSFuck] (/JSFUCK)
-
+- [JULIA](/JULIA)
 * [JAVA](/JAVA)
 * [JAVASCRIPT](/JAVASCRIPT)
 
