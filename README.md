@@ -35,6 +35,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [C++](/C%2B%2B)
 - [COFFEESCRIPT](/CoffeeScript)
 - [C++-with-function](/C%2B%2B-with-function)
+- [CLOJURE](/CLOJURE)
 
 ### D.
 
@@ -168,5 +169,6 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/Muh-Sidik"><img src="https://avatars3.githubusercontent.com/u/52684744?s=460&u=ef07fccc87ddc9c6eaafc894473ec38f7788aade&v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Sidik</b></sub></a><br /><a href="#content-Muh-SIdik" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/IbnuGunawanPrayogo"><img src="https://avatars1.githubusercontent.com/u/57023894?v=4" width="120px;" alt=""/><br /><sub><b>Ibnu Gunawan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/mnabila"><img src="https://avatars1.githubusercontent.com/u/37516576?v=4" width="120px;" alt=""/><br /><sub><b>mnabila</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/hadyd"><img src="https://avatars3.githubusercontent.com/u/62197750?s=460&u=33dd8ca47d81fb73ccc8412ec469eef26d15190a&v=4" width="120px;" alt=""/><br /><sub><b>hadyd</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
 </tr>
 <table/>
