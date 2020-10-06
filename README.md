@@ -50,7 +50,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### F.
 
-- [F#](/F#)
+- [F#](/F%23)
 
 ### G.
 
