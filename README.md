@@ -19,10 +19,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### A.
 
-
 - [ARDUINO](/ARDUINO)
 - [ASP](/ASP)
-
 
 ### B.
 
@@ -30,12 +28,17 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Brainfuck](/Brainfuck)
 
 ### C.
-* [C](/C)
-* [C#](C%23)
-* [C#-OOP](C%23-OOP)
-* [C++](/C%2B%2B)
-* [COFFEESCRIPT](/CoffeeScript)
-* [C++-with-function](/C%2B%2B-with-function)
+
+- [C](/C)
+- [C#](C%23)
+- [C#-OOP](C%23-OOP)
+- [C++](/C%2B%2B)
+- [COFFEESCRIPT](/COFFEESCRIPT)
+- [C++-with-function](/C%2B%2B-with-function)
+- [CLOJURE](/CLOJURE)
+- [COBOL](/COBOL)
+
+
 ### D.
 
 - [DART](/DART)
@@ -43,6 +46,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### E.
 
 - [Elixir](/Elixir)
+- [Erlang](/Erlang)
 
 ### F.
 
@@ -60,18 +64,17 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### J.
 
-* [JAVA](/JAVA)
-* [JAVASCRIPT](/JAVASCRIPT)
-* [JSFuck] (/JSFUCK)
-
 - [JAVA](/JAVA)
 - [JAVASCRIPT](/JAVASCRIPT)
+- [JSFuck](/JSFUCK)
+- [JULIA](/JULIA)
 
 ### K.
 
 - [KOTLIN](/KOTLIN)
 
 ### L.
+
 - [LISP](/LISP)
 - [LUA](/LUA)
 
@@ -87,10 +90,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### P.
 
-* [PASCAL](/PASCAL)
-* [PHP](/PHP)
-* [PHP using OOP](/PHP-OOP)
-* [PYTHON](/PYTHON)
+- [PASCAL](/PASCAL)
+- [PEARL](/PEARL)
+- [PHP](/PHP)
+- [PHP using OOP](/PHP-OOP)
+- [Processing](/Processing)
+- [PYTHON](/PYTHON)
 
 ### Q.
 
@@ -102,8 +107,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### S.
 
-* [SCALA](/SCALA)
-* [SWIFT](/SWIFT)
+- [SCALA](/SCALA)
+- [SWIFT](/SWIFT)
 
 ### T.
 
@@ -113,16 +118,16 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### V.
 
-* [V](/V)
-* [VB6](/VB6)
-* [VBScript](/VBScript)
-* [Vimscript](/Vimscript)
+- [V](/V)
+- [VB6](/VB6)
+- [VBScript](/VBScript)
+- [Vimscript](/Vimscript)
 
 ### W.
 
 ### X.
 
-* [X++](/X%2B%2B)
+- [X++](/X%2B%2B)
 
 ### Y.
 
@@ -169,5 +174,6 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/IbnuGunawanPrayogo"><img src="https://avatars1.githubusercontent.com/u/57023894?v=4" width="120px;" alt=""/><br /><sub><b>Ibnu Gunawan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/mnabila"><img src="https://avatars1.githubusercontent.com/u/37516576?v=4" width="120px;" alt=""/><br /><sub><b>mnabila</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/xenoare"><img src="https://avatars0.githubusercontent.com/u/67181778?s=400&u=7da34ae1d12cded2113200a0746b8f7c3762da15&v=4" width="120px;" alt=""/><br /><sub><b>Arsyadana Estu</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/hadyd"><img src="https://avatars3.githubusercontent.com/u/62197750?s=460&u=33dd8ca47d81fb73ccc8412ec469eef26d15190a&v=4" width="120px;" alt=""/><br /><sub><b>hadyd</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
 </tr>
 <table/>
