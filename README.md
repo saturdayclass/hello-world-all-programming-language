@@ -46,6 +46,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### F.
 
+- [F#](/F#)
+
 ### G.
 
 - [GO](/GO)
@@ -166,5 +168,6 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/Muh-Sidik"><img src="https://avatars3.githubusercontent.com/u/52684744?s=460&u=ef07fccc87ddc9c6eaafc894473ec38f7788aade&v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Sidik</b></sub></a><br /><a href="#content-Muh-SIdik" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/IbnuGunawanPrayogo"><img src="https://avatars1.githubusercontent.com/u/57023894?v=4" width="120px;" alt=""/><br /><sub><b>Ibnu Gunawan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/mnabila"><img src="https://avatars1.githubusercontent.com/u/37516576?v=4" width="120px;" alt=""/><br /><sub><b>mnabila</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/xenoare"><img src="https://avatars0.githubusercontent.com/u/67181778?s=400&u=7da34ae1d12cded2113200a0746b8f7c3762da15&v=4" width="120px;" alt=""/><br /><sub><b>Arsyadana Estu</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
 </tr>
 <table/>
