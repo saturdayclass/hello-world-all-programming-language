@@ -38,7 +38,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [C++-with-function](/C%2B%2B-with-function)
 - [CLOJURE](/CLOJURE)
 - [COBOL](/COBOL)
-
+- [CRYSTAL](/CRYSTAL)
 
 ### D.
 
@@ -98,6 +98,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [PHP using OOP](/PHP-OOP)
 - [Processing](/Processing)
 - [PYTHON](/PYTHON)
+- [PYTHON-OOP](/PYTHON-OOP)
 
 ### Q.
 
@@ -178,5 +179,7 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/xenoare"><img src="https://avatars0.githubusercontent.com/u/67181778?s=400&u=7da34ae1d12cded2113200a0746b8f7c3762da15&v=4" width="120px;" alt=""/><br /><sub><b>Arsyadana Estu</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/hadyd"><img src="https://avatars3.githubusercontent.com/u/62197750?s=460&u=33dd8ca47d81fb73ccc8412ec469eef26d15190a&v=4" width="120px;" alt=""/><br /><sub><b>hadyd</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/ChiragJain123"><img src="https://scontent.fixc4-1.fna.fbcdn.net/v/t1.0-9/120219619_977355856094633_2310466721768824132_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=NouIqkVSOfUAX_WKT-q&_nc_ht=scontent.fixc4-1.fna&oh=25055fcae66551e5bbcc9f8bfc491a9b&oe=5FA39443" width="120px;" alt=""/><br /><sub><b>Chirag Jain</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/meta1807"><img src="https://avatars0.githubusercontent.com/u/2920970?s=460&u=5a0d2813ee7b146151dbb284b68d85b5eaa8b54a&v=4" width="120px;" alt=""/><br /><sub><b>Adrian Ardizza</b></sub></a><br /><a href="#content-meta1807" title="Content">🖋</a></td>
+
 </tr>
 <table/>
