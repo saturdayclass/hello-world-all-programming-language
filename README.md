@@ -21,7 +21,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [ARDUINO](/ARDUINO)
 - [ASP](/ASP)
-- [ASSEMBLY LANGUAGE](/ASSEMBLYLANGUAGE)
+- [ASSEMBLY LANGUAGE](/AssemblyLanguage)
 
 ### B.
 
@@ -52,7 +52,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### F.
 
 - [F#](/F%23)
-- [FORTRAN](/FORTRAN)
+- [FORTRAN](/Fortran)
 
 ### G.
 
