@@ -98,6 +98,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [PHP](/PHP)
 - [PHP using OOP](/PHP-OOP)
 - [Processing](/Processing)
+- [PROLOG](/PROLOG)
 - [PYTHON](/PYTHON)
 - [PYTHON-OOP](/PYTHON-OOP)
 
