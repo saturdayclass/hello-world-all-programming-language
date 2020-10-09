@@ -1,0 +1,3 @@
+Bahasa pemrograman Ada, adalah sebuah bahasa pemrograman prosedural yang didesain di bawah arahan Departemen Pertahanan Amerika Serikat pada akhir tahun 1970-an dan awalnya ditujukan sebagai bahasa utama dalam membangun perangkat lunak Departemen Pertahanan. Nama Ada sendiri diambil dari Augusta Ada Byron, seorang istri bangsawan (countess) Lovelace yang dianggap sebagai seorang pemrogram komputer (programmer) yang pertama. Bahasa ini diturunkan dari bahasa Pascal tetapi memiliki beberapa tambahan semantik dan sintaksis, seperti halnya eksekusi tugas secara serentak, operator overloading, dan juga module.
+
+Sumber : https://id.wikipedia.org/wiki/Ada_%28bahasa_pemrograman%29
