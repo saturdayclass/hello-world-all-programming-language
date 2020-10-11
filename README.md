@@ -62,6 +62,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### H.
 
+- [HACK](/Hack)
 - [HASKELL](/Haskell)
 
 ### I.
