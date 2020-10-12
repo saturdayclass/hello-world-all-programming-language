@@ -40,6 +40,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [C++-with-function](/C%2B%2B-with-function)
 - [CLOJURE](/CLOJURE)
 - [COBOL](/COBOL)
+- [COBRA](/COBRA)
 - [CRYSTAL](/CRYSTAL)
 
 ### D.
@@ -189,5 +190,6 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/meta1807"><img src="https://avatars0.githubusercontent.com/u/2920970?s=460&u=5a0d2813ee7b146151dbb284b68d85b5eaa8b54a&v=4" width="120px;" alt=""/><br /><sub><b>Adrian Ardizza</b></sub></a><br /><a href="#content-meta1807" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars3.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   <td align="center"><a href="https://https://github.com/xvbnm48"><img src="https://avatars1.githubusercontent.com/u/64114487?s=400&u=19cedad75f102fff7eeef181f0ee10e1f4cd2178&v=4" width="120px;" alt=""/><br /><sub><b>M Fariz Wisnu Prananda</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/Putra-febriansyh4646"><img src="https://avatars3.githubusercontent.com/u/72185253?s=460&u=e843b4f07225324f267a9cd52605b90ee64a9df8&v=4" width="120px;" alt=""/><br /><sub><b>FebrianS Putra</b></sub></a><br /><a href="#content-Putra-febriansyh4646" title="Content">🖋</a></td>
 </tr>
 <table/>
