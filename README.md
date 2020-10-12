@@ -188,5 +188,6 @@ Note : if you have a programming language recommendation, you can add it in the 
 <tr>
   <td align="center"><a href="https://github.com/meta1807"><img src="https://avatars0.githubusercontent.com/u/2920970?s=460&u=5a0d2813ee7b146151dbb284b68d85b5eaa8b54a&v=4" width="120px;" alt=""/><br /><sub><b>Adrian Ardizza</b></sub></a><br /><a href="#content-meta1807" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars3.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
+  <td align="center"><a href="https://https://github.com/xvbnm48"><img src="https://avatars1.githubusercontent.com/u/64114487?s=400&u=19cedad75f102fff7eeef181f0ee10e1f4cd2178&v=4" width="120px;" alt=""/><br /><sub><b>M Fariz Wisnu Prananda</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
 </tr>
 <table/>
