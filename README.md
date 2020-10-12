@@ -21,6 +21,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### A.
 
 - [Ada](/Ada)
+- [ALGOL](/ALGOL)
 - [ARDUINO](/ARDUINO)
 - [ASP](/ASP)
 - [ASSEMBLY LANGUAGE](/AssemblyLanguage)
@@ -36,11 +37,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [C#](C%23)
 - [C#-OOP](C%23-OOP)
 - [C++](/C%2B%2B)
-- [COFFEESCRIPT](/COFFEESCRIPT)
 - [C++-with-function](/C%2B%2B-with-function)
 - [CLOJURE](/CLOJURE)
 - [COBOL](/COBOL)
 - [COBRA](/COBRA)
+- [COFFEESCRIPT](/COFFEESCRIPT)
 - [CRYSTAL](/CRYSTAL)
 
 ### D.
@@ -61,6 +62,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [GO](/GO)
 - [Grace](/Grace)
+- [Groovy](/Groovy)
 
 ### H.
 
@@ -101,6 +103,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [PEARL](/PEARL)
 - [PHP](/PHP)
 - [PHP using OOP](/PHP-OOP)
+- [POWERSHELL](/POWERSHELL)
 - [Processing](/Processing)
 - [PROLOG](/PROLOG)
 - [PYTHON](/PYTHON)
