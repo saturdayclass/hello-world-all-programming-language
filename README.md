@@ -30,6 +30,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [Bash](/Bash)
 - [Brainfuck](/Brainfuck)
+- [BAIK](/BAIK)BAIK
 
 ### C.
 
@@ -197,5 +198,6 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://https://github.com/xvbnm48"><img src="https://avatars1.githubusercontent.com/u/64114487?s=400&u=19cedad75f102fff7eeef181f0ee10e1f4cd2178&v=4" width="120px;" alt=""/><br /><sub><b>M Fariz Wisnu Prananda</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/Putra-febriansyh4646"><img src="https://avatars3.githubusercontent.com/u/72185253?s=460&u=e843b4f07225324f267a9cd52605b90ee64a9df8&v=4" width="120px;" alt=""/><br /><sub><b>FebrianS Putra</b></sub></a><br /><a href="#content-Putra-febriansyh4646" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/amary21"><img src="https://avatars2.githubusercontent.com/u/43547226?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Taufik Amaryansyah</b></sub></a><br /><a href="#content-amary21" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/ianoit"><img src="https://avatars1.githubusercontent.com/u/6021809?s=460&u=f5626ac586142f5725747ddf8fddfe6d5fdb7548&v=4" width="120px;" alt=""/><br /><sub><b>Ianoit</b></sub></a><br /><a href="#content-ianoit" title="Content">🖋</a></td>
 </tr>
 <table/>
