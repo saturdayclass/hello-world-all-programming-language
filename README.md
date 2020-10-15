@@ -30,7 +30,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [Bash](/Bash)
 - [Brainfuck](/Brainfuck)
-- [BAIK](/BAIK)BAIK
+- [BAIK](/BAIK)
 
 ### C.
 
