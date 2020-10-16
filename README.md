@@ -48,7 +48,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### D.
 
 - [DART](/DART)
-- [DOSBATCH](/DOSBATCH)
 
 ### E.
 
