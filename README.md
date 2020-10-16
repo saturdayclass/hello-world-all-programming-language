@@ -91,6 +91,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### M.
 
 - [MATLAB](/MATLAB)
+- [MODISCRIPT](/MODISCRIPT)
 
 ### N.
 
