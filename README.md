@@ -27,7 +27,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [ASSEMBLY LANGUAGE](/AssemblyLanguage)
 
 ### B.
-
+- [B](/B)
 - [Bash](/Bash)
 - [Brainfuck](/Brainfuck)
 - [BAIK](/BAIK)
