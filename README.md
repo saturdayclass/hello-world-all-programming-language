@@ -55,6 +55,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [PASCAL](/PASCAL)
 * [PHP](/PHP)
 * [PYTHON](/PYTHON)
+* [PERL](/PERL)
 ### Q.
 ### R.
 * [RUBY](/RUBY)
@@ -106,5 +107,8 @@ Note : if you have a programming language recommendation, you can add it in the 
    <td align="center"><a href="https://github.com/elianiva"><img src="https://avatars2.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>Elianiva</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/afdulfauzan"><img src="https://avatars0.githubusercontent.com/u/37241368?v=4" width="120px;" alt=""/><br /><sub><b>Afdul Fauzan</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/Zainal21"><img src="https://avatars3.githubusercontent.com/u/48118434?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Zainal Arifin</b></sub></a><br /><a href="#content-zainal21" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+  	<td align="center"><a href="https://github.com/anthicc"><img src="https://avatars2.githubusercontent.com/u/65759448?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Abda Zuljiva</b></sub></a><br /><a href="#content-anthicc" title="Content">🖋</a></td>
   </tr>
 <table/>
