@@ -203,6 +203,6 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/namya0303"><img src="https://cdn.discordapp.com/avatars/292653968742547466/96999311f4fd7e4a0cadb39466fe8b28.png?size=256" width="120px;" alt=""/><br /><sub><b>Namya Chhabra</b></sub></a><br /><a href="#content-namya0303" title="Content">🖋</a></td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/muhammadafin"><img scr="https://avatars1.githubusercontent.com/u/60638028?v=4" width="120px" alt=""><br /><sub><b>Muhammad Afin</b></sub></a><br /><a href="#content-muhammadafin" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/hadyd"><img src="https://avatars1.githubusercontent.com/u/60638028?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Afin</b></sub></a><br /><a href="#content-muhammadafin" title="Content">🖋</a></td>
 </tr>
 <table/>
