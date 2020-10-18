@@ -46,7 +46,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [CRYSTAL](/CRYSTAL)
 
 ### D.
-
+- [D](/D)
 - [DART](/DART)
 
 ### E.
@@ -212,5 +212,8 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/amary21"><img src="https://avatars2.githubusercontent.com/u/43547226?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Taufik Amaryansyah</b></sub></a><br /><a href="#content-amary21" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/ianoit"><img src="https://avatars1.githubusercontent.com/u/6021809?s=460&u=f5626ac586142f5725747ddf8fddfe6d5fdb7548&v=4" width="120px;" alt=""/><br /><sub><b>Ianoit</b></sub></a><br /><a href="#content-ianoit" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/namya0303"><img src="https://cdn.discordapp.com/avatars/292653968742547466/96999311f4fd7e4a0cadb39466fe8b28.png?size=256" width="120px;" alt=""/><br /><sub><b>Namya Chhabra</b></sub></a><br /><a href="#content-namya0303" title="Content">🖋</a></td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/muhammadafin"><img src="https://avatars1.githubusercontent.com/u/60638028?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Afin</b></sub></a><br /><a href="#content-muhammadafin" title="Content">🖋</a></td>
 </tr>
 <table/>
