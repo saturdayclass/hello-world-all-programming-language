@@ -155,6 +155,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Y.
 
+- [YAML](/YAML)
+
 ### Z.
 
 Note : if you have a programming language recommendation, you can add it in the index above.
@@ -217,5 +219,6 @@ Note : if you have a programming language recommendation, you can add it in the 
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/muhammadafin"><img src="https://avatars1.githubusercontent.com/u/60638028?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Afin</b></sub></a><br /><a href="#content-muhammadafin" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/tosankrisna"><img src="https://d17ivq9b7rppb3.cloudfront.net/small/avatar/202005061716244973e04c3af44889d4f9ef0ba5e9cbc0.png" width="120px;" alt=""/><br /><sub><b>Tosan Krisna</b></sub></a><br /><a href="#content-tosankrisna" title="Content">🖋</a></td>
 </tr>
 <table/>

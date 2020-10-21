@@ -1,0 +1,4 @@
+question: Hello World!
+buttons: 
+  -Exit: exit
+mandatory: True
