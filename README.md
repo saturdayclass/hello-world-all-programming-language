@@ -29,6 +29,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### B.
 - [B](/B)
 - [Bash](/Bash)
+- [BATCH](/BATCH)
 - [Brainfuck](/Brainfuck)
 - [BAIK](/BAIK)
 
