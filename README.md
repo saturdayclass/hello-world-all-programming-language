@@ -132,6 +132,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### S.
 
 - [SCALA](/SCALA)
+- [SMALLTALK](/SMALLTALK)
 - [SWIFT](/SWIFT)
 - [SCHEME](/Scheme)
 
