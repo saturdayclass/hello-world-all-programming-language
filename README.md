@@ -197,9 +197,7 @@ Note : if you have a programming language recommendation, you can add it in the 
    <td align="center"><a href="https://github.com/Zainal21"><img src="https://avatars3.githubusercontent.com/u/48118434?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Zainal Arifin</b></sub></a><br /><a href="#content-zainal21" title="Content">🖋</a></td>
   </tr>
   <tr>
-  	<td align="center"><a href="https://github.com/anthicc"><img src="https://avatars2.githubusercontent.com/u/65759448?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Abda Zuljiva</b></sub></a><br /><a href="#content-anthicc" title="Content">🖋</a></td>
   </tr>
-=======
  </tr>
  <tr>
   <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars0.githubusercontent.com/u/48024209?s=460&u=935ccdc9612b58b1df89c9942f8028a4f118ff65&v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
@@ -222,5 +220,6 @@ Note : if you have a programming language recommendation, you can add it in the 
 <tr>
   <td align="center"><a href="https://github.com/muhammadafin"><img src="https://avatars1.githubusercontent.com/u/60638028?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Afin</b></sub></a><br /><a href="#content-muhammadafin" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/tosankrisna"><img src="https://d17ivq9b7rppb3.cloudfront.net/small/avatar/202005061716244973e04c3af44889d4f9ef0ba5e9cbc0.png" width="120px;" alt=""/><br /><sub><b>Tosan Krisna</b></sub></a><br /><a href="#content-tosankrisna" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/anthicc"><img src="https://avatars2.githubusercontent.com/u/65759448?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Abda Zuljiva</b></sub></a><br /><a href="#content-anthicc" title="Content">🖋</a></td>
 </tr>
 <table/>
