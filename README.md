@@ -148,6 +148,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [VB6](/VB6)
 - [VBScript](/VBScript)
 - [Vimscript](/Vimscript)
+- [Verilog](/Verilog)
 
 ### W.
 
@@ -221,5 +222,6 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://github.com/muhammadafin"><img src="https://avatars1.githubusercontent.com/u/60638028?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Afin</b></sub></a><br /><a href="#content-muhammadafin" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/tosankrisna"><img src="https://d17ivq9b7rppb3.cloudfront.net/small/avatar/202005061716244973e04c3af44889d4f9ef0ba5e9cbc0.png" width="120px;" alt=""/><br /><sub><b>Tosan Krisna</b></sub></a><br /><a href="#content-tosankrisna" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/anthicc"><img src="https://avatars2.githubusercontent.com/u/65759448?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Abda Zuljiva</b></sub></a><br /><a href="#content-anthicc" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/nishaa73"><img src="https://ecs7.tokopedia.net/img/cache/700/product-1/2019/10/20/770625/770625_eaa4b6eb-d019-4c8a-bcb5-4bf57fc76806_700_700" width="120px;" alt=""/><br /><sub><b>Nisha</b></sub></a><br /><a href="#content-nisha" title="Content">🖋</a></td>
 </tr>
 <table/>
